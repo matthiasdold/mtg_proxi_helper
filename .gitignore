@@ -1,0 +1,7 @@
+*.pdf
+*.jpeg
+*.txt
+
+
+# whitelist 
+!cards.txt
